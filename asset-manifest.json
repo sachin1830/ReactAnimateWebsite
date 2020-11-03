@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactAnimateWebsite/static/css/main.cad6c455.chunk.css",
+    "main.js": "/ReactAnimateWebsite/static/js/main.0a729570.chunk.js",
+    "main.js.map": "/ReactAnimateWebsite/static/js/main.0a729570.chunk.js.map",
+    "runtime-main.js": "/ReactAnimateWebsite/static/js/runtime-main.2d80e836.js",
+    "runtime-main.js.map": "/ReactAnimateWebsite/static/js/runtime-main.2d80e836.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/ReactAnimateWebsite/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.a2060225.chunk.js": "/ReactAnimateWebsite/static/js/2.a2060225.chunk.js",
+    "static/js/2.a2060225.chunk.js.map": "/ReactAnimateWebsite/static/js/2.a2060225.chunk.js.map",
+    "index.html": "/ReactAnimateWebsite/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/ReactAnimateWebsite/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.cad6c455.chunk.css.map": "/ReactAnimateWebsite/static/css/main.cad6c455.chunk.css.map",
+    "static/js/2.a2060225.chunk.js.LICENSE.txt": "/ReactAnimateWebsite/static/js/2.a2060225.chunk.js.LICENSE.txt",
+    "static/media/development1.e50ce9fb.png": "/ReactAnimateWebsite/static/media/development1.e50ce9fb.png",
+    "static/media/development2.5549acb1.png": "/ReactAnimateWebsite/static/media/development2.5549acb1.png",
+    "static/media/web.b503c7a7.jpg": "/ReactAnimateWebsite/static/media/web.b503c7a7.jpg",
+    "static/media/web1.dfe60c65.jpg": "/ReactAnimateWebsite/static/media/web1.dfe60c65.jpg",
+    "static/media/web2.2fe17bac.png": "/ReactAnimateWebsite/static/media/web2.2fe17bac.png",
+    "static/media/web3.378055df.png": "/ReactAnimateWebsite/static/media/web3.378055df.png",
+    "static/media/web4.b38da47b.png": "/ReactAnimateWebsite/static/media/web4.b38da47b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d80e836.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.a2060225.chunk.js",
+    "static/css/main.cad6c455.chunk.css",
+    "static/js/main.0a729570.chunk.js"
+  ]
+}
